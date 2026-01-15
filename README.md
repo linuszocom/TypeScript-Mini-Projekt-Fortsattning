@@ -88,8 +88,8 @@ Implementera sedan dom olika sakerna från kravlistan.
 Lycka till!
 
 
-#Dagens kod**
-*index.html
+## Dagens kod**
+**index.html**
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -149,7 +149,8 @@ Lycka till!
 
 ```
 
-```typescript
+**index.ts**
+```
 // Interfaces/Typer
 interface Song {
   id: number;
