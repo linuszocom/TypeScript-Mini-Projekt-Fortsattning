@@ -150,7 +150,7 @@ Lycka till!
 ```
 
 **index.ts**
-```
+```typescript
 // Interfaces/Typer
 interface Song {
   id: number;
