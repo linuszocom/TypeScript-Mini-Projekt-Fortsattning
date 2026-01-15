@@ -88,7 +88,7 @@ Implementera sedan dom olika sakerna från kravlistan.
 Lycka till!
 
 
-## Dagens kod**
+## Dagens kod
 **index.html**
 ```html
 <!DOCTYPE html>
