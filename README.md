@@ -1,4 +1,4 @@
-# 📝 Uppgift: Fortsätt bygga på erat projekt
+# Uppgift: Fortsätt bygga på erat projekt
 
 Idag är målet att fortsätta jobba på erat projekt. Ni ska använda TypeScript för att bygga upp och styra ert användargränssnitt baserat på data. Oavsett om ni bygger en webbshop, en att-göra-lista eller ett spel, är logiken densamma.
 
